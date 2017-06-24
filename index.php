@@ -7,7 +7,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1,requiresActiveX=true">
     
     
-	<title>Phongsakorn :: Resume  sssssssssss</title>
+	<title>Phongsakorn :: Resume</title>
 	<meta name="description" content="Phongsakorn Chomchuen">
     
     <!-- /// Favicons ////////  -->
